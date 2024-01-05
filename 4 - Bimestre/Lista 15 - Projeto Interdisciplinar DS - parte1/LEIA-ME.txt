@@ -1,0 +1,9 @@
+* TRABALHO AINDA NÃO FINALIZADO  *
+
+
+caminho para a tela com o CRUD completo :
+
+Selecione funcionário no login
+usuario: João
+Senha: 789
+Clique na Imagem do Admin
