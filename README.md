@@ -33,6 +33,7 @@ etec-dev-sistemas-2023/
 │   └── PDFs/
 │       ├── Discipl-DS-I-MTec.pdf
 │       └── Exerc-Crud-Pet-Java.pdf
+└── README.md
 ```
 ---
 ### Descrição das Pastas
